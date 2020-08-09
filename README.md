@@ -7,9 +7,9 @@ This repo is for Full Stack Development Project with Spring Framework.
 <ol>
 1. Github 계정 생성
 2. 개발 환경 구축
-  1) Spring
-    - jdk 1.8, eclipse, spring tools3, tomcat 9.0 설치
-    - spring MVC Project 생성, 서버 세팅
+	* Spring
+    * jdk 1.8, eclipse, spring tools3, tomcat 9.0 설치
+    * spring MVC Project 생성, 서버 세팅
   2) DataBase
     - mariaDB 10.2.14, MySQL Workbench 8.0 설치
     - Theater Schema, movie table 생성, data 삽입
