@@ -4,6 +4,7 @@ This repo is for Full Stack Development Project with Spring Framework.
 
 
 ## 1주차
+<ol>
 1. Github 계정 생성
 2. 개발 환경 구축
   1) Spring
@@ -24,5 +25,6 @@ This repo is for Full Stack Development Project with Spring Framework.
 4. 데이터 조회/처리 코드
   1) dao, service, settingweb, vo 패키지 구현
 	2) 웹 화면을 담당하는 home.jsp 파일 작성
+</ol>
 
 
