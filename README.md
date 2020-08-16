@@ -46,8 +46,7 @@ This repo is for Full Stack Development Project with Spring Framework.
 		  
 2. 인터페이스 가이드 작성 (완료)
 
-		  * [Bar Chart] 인터페이스 가이드 Version 1.0
-		  
+		  [Bar Chart] 인터페이스 가이드 Version 1.0 (pptx)
 		  1) 요청
 		   - 사용자 요청 시 데이터 가져와 차트 그림
 		  2) 응답
