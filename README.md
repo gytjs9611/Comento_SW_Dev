@@ -46,8 +46,9 @@ This repo is for Full Stack Development Project with Spring Framework.
 		  
 2. 인터페이스 가이드 작성 (완료)
 
-		- 요청
-		- 응답
-		- Chart Library 저옵
-		- 차트 샘플
+		- 문서 구성
+		1) 요청
+		2) 응답
+		3) Chart Library 저옵
+		4) 차트 샘플
 
