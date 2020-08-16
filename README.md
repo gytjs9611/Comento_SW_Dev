@@ -44,6 +44,10 @@ This repo is for Full Stack Development Project with Spring Framework.
 		   -> data.map 에서 해당 에러 발생 (data가 가리키는 data.tsv 파일이 누락됨을 확인)
 		   -> data.tsv 파일을 WebContent 폴더 아래 추가함으로써 해결
 		  
-2. 인터페이스 가이드 작성 (작성중)
+2. 인터페이스 가이드 작성 (완료)
 
+		- 요청
+		- 응답
+		- Chart Library 저옵
+		- 차트 샘플
 
