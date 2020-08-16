@@ -33,6 +33,8 @@ This repo is for Full Stack Development Project with Spring Framework.
 		
 		
 		
+		
+		
 ## 2주차 : 차트 선택, 테스트
 
 1. Bar Chart 예제 테스트 (완료)
@@ -42,7 +44,7 @@ This repo is for Full Stack Development Project with Spring Framework.
 		- http://bl.ocks.org/Caged/6476579 예제 활용하여 테스트 수행
 		
 		- TypeError: Cannot read property 'map' of undefined 에러 발생
-		  => data.map 에서 해당 에러 발생 (여기서 data는 data.tsv파일을 가르킴)
+		  => data.map 에서 해당 에러 발생 (data가 가리키는 data.tsv 파일이 누락됨을 확인)
 		  => data.tsv 파일을 WebContent 폴더 아래 추가함으로써 해결
 
 
