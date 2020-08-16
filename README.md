@@ -18,13 +18,13 @@ This repo is for Full Stack Development Project with Spring Framework.
 3. Spring, MariaDB, MyBatis 연동 (완료)
 
 		- pom.xml에 dependency 추가 시 오류  
-		-> spring 버전 통일해야 오류 나지 않음
+		   -> spring 버전 통일해야 오류 나지 않음
 		  
 		- root-context.xml에서 “context:component-scan” is not bound 에러  
-		  -> Namespaces 탭 > context 체크해주면 자동으로 코드 추가되어 해결됨
+		   -> Namespaces 탭 > context 체크해주면 자동으로 코드 추가되어 해결됨
 		  
   		- log4j.xml 에서 ‘Cannot find DTD …’ 에러 발생  
-		  -> DTD 파일 경로를 절대 경로로 지정하면 해결 가능
+		   -> DTD 파일 경로를 절대 경로로 지정하면 해결 가능
 		
 4. 데이터 조회/처리 코드 (완료)
 
@@ -42,8 +42,8 @@ This repo is for Full Stack Development Project with Spring Framework.
 		- http://bl.ocks.org/Caged/6476579 예제 활용하여 테스트 수행
 		
 		- TypeError: Cannot read property 'map' of undefined 에러 발생
-		  -> data.map 에서 해당 에러 발생 (data가 가리키는 data.tsv 파일이 누락됨을 확인)
-		  -> data.tsv 파일을 WebContent 폴더 아래 추가함으로써 해결
+		   -> data.map 에서 해당 에러 발생 (data가 가리키는 data.tsv 파일이 누락됨을 확인)
+		   -> data.tsv 파일을 WebContent 폴더 아래 추가함으로써 해결
 		  
 2. 인터페이스 가이드 작성 (작성중)
 
