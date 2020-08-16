@@ -1,5 +1,7 @@
 # Comento_SW_Dev
 This repo is for Full Stack Development Project with Spring Framework.
+<br/><br/>
+
 
 ## 1주차 : 개발환경 구성
 
@@ -38,6 +40,7 @@ This repo is for Full Stack Development Project with Spring Framework.
 1. Bar Chart 예제 테스트 (완료)
 		
 		- 오픈소스 d3.js 이용
+		
 		- http://bl.ocks.org/Caged/6476579 예제 활용하여 테스트 수행
 		
 		- TypeError: Cannot read property 'map' of undefined 에러 발생
@@ -46,14 +49,13 @@ This repo is for Full Stack Development Project with Spring Framework.
 		  
 2. 인터페이스 가이드 작성 (완료)
 
-		  * [Bar Chart] 인터페이스 가이드 Version 1.0
-		  
+		  [Bar Chart] 인터페이스 가이드 Version 1.0 (pptx)
 		  1) 요청
 		   - 사용자 요청 시 데이터 가져와 차트 그림
 		  2) 응답
-		    - tsv 타입으로 데이터 제공
+		   - tsv 타입으로 데이터 제공
 		  3) Chart Library 정보
-		    - https://d3js.org
+		   - https://d3js.org
 		  4) 차트 샘플
-		    - 이미지 첨부
+		   - 이미지 첨부
 
