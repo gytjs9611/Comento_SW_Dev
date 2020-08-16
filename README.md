@@ -31,11 +31,9 @@ This repo is for Full Stack Development Project with Spring Framework.
   		- dao, service, settingweb, vo 패키지 구현
 		- 웹 화면을 담당하는 home.jsp 파일 작성
 		
-		
-  
-  
-  
-		
+<br/>
+<br/>
+
 ## 2주차 : 차트 선택, 테스트
 
 1. Bar Chart 예제 테스트 (완료)
