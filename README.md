@@ -51,9 +51,9 @@ This repo is for Full Stack Development Project with Spring Framework.
 		  1) 요청
 		   - 사용자 요청 시 데이터 가져와 차트 그림
 		  2) 응답
-		    - tsv 타입으로 데이터 제공
+		   - tsv 타입으로 데이터 제공
 		  3) Chart Library 정보
-		    - https://d3js.org
+		   - https://d3js.org
 		  4) 차트 샘플
-		    - 이미지 첨부
+		   - 이미지 첨부
 
