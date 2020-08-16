@@ -38,7 +38,6 @@ This repo is for Full Stack Development Project with Spring Framework.
 1. Bar Chart 예제 테스트 (완료)
 		
 		- 오픈소스 d3.js 이용
-		
 		- http://bl.ocks.org/Caged/6476579 예제 활용하여 테스트 수행
 		
 		- TypeError: Cannot read property 'map' of undefined 에러 발생
