@@ -46,9 +46,14 @@ This repo is for Full Stack Development Project with Spring Framework.
 		  
 2. 인터페이스 가이드 작성 (완료)
 
-		- [Bar Chart] 인터페이스 가이드 Version 1.0
-		  1. 요청 - 사용자 요청 시 데이터 가져와 차트 그림
-		  2. 응답 - tsv 타입으로 데이터 제공
-		  3. Chart Library 정보 - https://d3js.org
-		  4. 차트 샘플 이미지
+		  * [Bar Chart] 인터페이스 가이드 Version 1.0
+		  
+		  1) 요청
+		   - 사용자 요청 시 데이터 가져와 차트 그림
+		  2) 응답
+		    - tsv 타입으로 데이터 제공
+		  3) Chart Library 정보
+		    - https://d3js.org
+		  4) 차트 샘플
+		    - 이미지 첨부
 
