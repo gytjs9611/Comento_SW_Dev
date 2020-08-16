@@ -8,12 +8,12 @@ This repo is for Full Stack Development Project with Spring Framework.
 2. 개발 환경 구축 (완료)
 	- Spring
 
-			- jdk 1.8, eclipse, spring tools3, tomcat 9.0 설치
-			- spring MVC Project 생성, 서버 세팅
+		- jdk 1.8, eclipse, spring tools3, tomcat 9.0 설치
+		- spring MVC Project 생성, 서버 세팅
 	- Database
 
-			- mariaDB 10.2.14, MySQL Workbench 8.0 설치
-			- Theater Schema, movie table 생성, data 삽입
+		- mariaDB 10.2.14, MySQL Workbench 8.0 설치
+		- Theater Schema, movie table 생성, data 삽입
 		
 3. Spring, MariaDB, MyBatis 연동 (완료)
 
@@ -28,8 +28,8 @@ This repo is for Full Stack Development Project with Spring Framework.
 		
 4. 데이터 조회/처리 코드 (완료)
 
-  		- dao, service, settingweb, vo 패키지 구현
-		- 웹 화면을 담당하는 home.jsp 파일 작성
+  	- dao, service, settingweb, vo 패키지 구현
+	- 웹 화면을 담당하는 home.jsp 파일 작성
 		
 <br/>
 
