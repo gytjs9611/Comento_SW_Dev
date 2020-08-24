@@ -58,4 +58,33 @@ This repo is for Full Stack Development Project with Spring Framework.
 		   - https://d3js.org
 		  4) 차트 샘플
 		   - 이미지 첨부
+		   
+		   
+<br/>
 
+## 3주차 : RestController, DataBinding
+
+1. Spring : RestController를 이용한 데이터 처리 (완료)
+		
+		1) json 이용하기 위해 Jackson library 추가
+		 - pom.xml에 jackson 관련 library 추가
+		2) restController 구현
+		 - resController.java 파일 작성
+		 - @RestController Annotation 사용
+		 - @RequestMapping Annotation 사용하여 url로 mapping하도록 함
+		3) url 창에 주소 호출하여 json 형식의 movieList 값 불러옴
+
+2. DataBinding을 위한 화면 구조 변경, 자원 작성 (완료)
+
+		1) home.jsp 작성
+		 - home.jsp에서 common_resource.jsp, home.js, home.css 불러오도록 작성
+		 - 버튼 이벤트를 위해 load_movieList라는 id를 갖는 button 작성
+		2) common_resource.jsp 추가
+		 - jquery-1.12.4.min.js 파일을 불러오는 파일
+		3) servlet-context.xml 수정
+		 - js, css 등 자원이 있는 곳 맵핑해주는 코드 추가
+		4) home.css 작성
+		5) home.js 작성
+		 - 버튼을 누르면 url을 통해 데이터 호출
+		 - 호출 성공 시 databinding
+		 - 호출 실패 시 에러 메세지 띄움
