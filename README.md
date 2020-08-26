@@ -117,6 +117,8 @@ This repo is for Full Stack Development Project with Spring Framework.
 
 		1) wine quality 스키마 생성, product quality 테이블 생성 후 wine quality 데이터 삽입
 		2) mybatis>sql>test.xml과 mybatis-config.xml 파일 수정 - sql문 추가, type 세팅
+		 - SUM, AVG, STDDEV 등이 포함된 SQL문 수행 시, null 리턴됨
+		   -> STDDEV(column명) AS 'VO에서 설정한 변수명' 로 설정해주어야 정상 출력
 		
 
 3. 데이터 조회/처리 위한 클래스 작성 (완료)
