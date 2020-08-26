@@ -98,3 +98,41 @@ This repo is for Full Stack Development Project with Spring Framework.
 		 - 버튼을 누르면 url을 통해 데이터 호출
 		 - 호출 성공 시 databinding
 		 - 호출 실패 시 에러 메세지 띄움
+		 
+		 
+<br/>
+
+## 4주차 : Visualize Wine Quality Data
+
+
+1. 구현할 차트 선정 (완료)
+		
+		1) 'quality' 값의 비율을 보여주는 파이 차트
+		2) 항목별 표준편차를 보여주는 막대 차트
+		3) 'alcohol'-'quality' 간의 관계를 보여주는 산점도
+		4) 'volatile acidity'-'quality' 간의 관계를 보여주는 산점도
+		
+		
+2. Database 설정 (완료)
+
+		1) wine quality 스키마 생성, product quality 테이블 생성 후 wine quality 데이터 삽입
+		2) mybatis>sql>test.xml과 mybatis-config.xml 파일 수정 - sql문 추가, type 세팅
+		
+
+3. 데이터 조회/처리 위한 클래스 작성 (완료)
+		
+		1) DAO
+		 - 데이터베이스에 접근하여 그래프에 필요한 값을 불러오는 WineDAO 클래스 작성
+		 
+		2) Service
+		 - DAO로부터 받아온 리스트를 리턴해주는 WineService 클래스 작성
+		 
+		3) VO
+		 - 차트에 필요한 데이터를 담고있는 객체 정의
+		 - QualityVO, StdVO, AlcQualVO, VolatileQualVO의 네 가지
+		 
+		 4) RestController
+		  - RequestMapping으로 필요한 url 네 가지 작성
+		  - url에 접속하여 각각 출력되는 json 데이터 확인 완료
+		  
+
