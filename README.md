@@ -110,7 +110,7 @@ This repo is for Full Stack Development Project with Spring Framework.
 		1) 'quality' 값의 비율을 보여주는 파이 차트
 		2) 항목별 표준편차를 보여주는 막대 차트
 		3) 'alcohol'-'quality' 간의 관계를 보여주는 산점도
-		4) 'volatile acidity'-'quality' 간의 관계를 보여주는 산점도
+		4) 'volatile acidity'-'quality' 간의 관계를 보여주는 박스 플롯 차트
 		
 		
 2. Database 설정 (완료)
@@ -136,3 +136,6 @@ This repo is for Full Stack Development Project with Spring Framework.
 		  - url에 접속하여 각각 출력되는 json 데이터 확인 완료
 		  
 
+4. 차트 구현 (진행중)
+		
+		1) 
