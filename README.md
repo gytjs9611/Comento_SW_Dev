@@ -140,7 +140,7 @@ This repo is for Full Stack Development Project with Spring Framework.
 
 4. 차트 구현 (진행중)
 		
-		1) Quality (Bar Chart)
+		1) Quality (Bar Chart) - O
 		2) Standard Deviation (Table)
 		3) Alcohol-Quality (Scatter Plot)
 		4) Volatile Acidity-Quality (Box Blot)
