@@ -107,10 +107,10 @@ This repo is for Full Stack Development Project with Spring Framework.
 
 1. 구현할 차트 선정 (완료)
 		
-		1) 'quality' 값의 비율을 보여주는 파이 차트
-		2) 항목별 표준편차를 보여주는 막대 차트
-		3) 'alcohol'-'quality' 간의 관계를 보여주는 산점도
-		4) 'volatile acidity'-'quality' 간의 관계를 보여주는 박스 플롯
+		1) 'quality' 값의 분포를 보여주는 Bar Chart
+		2) 항목별 표준편차를 보여주는 Table
+		3) 'alcohol'-'quality' 간의 관계를 보여주는 Scatter Plot
+		4) 'volatile acidity'-'quality' 간의 관계를 보여주는 Box Plot
 		
 		
 2. Database 설정 (완료)
@@ -140,7 +140,7 @@ This repo is for Full Stack Development Project with Spring Framework.
 
 4. 차트 구현 (진행중)
 		
-		1) Quality (Pie Chart)
-		2) Standard Deviation (Bar Chart)
+		1) Quality (Bar Chart)
+		2) Standard Deviation (Table)
 		3) Alcohol-Quality (Scatter Plot)
 		4) Volatile Acidity-Quality (Box Blot)
