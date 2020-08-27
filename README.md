@@ -142,5 +142,5 @@ This repo is for Full Stack Development Project with Spring Framework.
 		
 		1) Quality (Bar Chart) - O
 		2) Standard Deviation (Table)
-		3) Alcohol-Quality (Scatter Plot)
+		3) Alcohol-Quality (Scatter Plot) - O
 		4) Volatile Acidity-Quality (Box Blot)
