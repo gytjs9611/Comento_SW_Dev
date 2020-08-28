@@ -131,7 +131,7 @@ This repo is for Full Stack Development Project with Spring Framework.
 		 
 		3) VO
 		 - 차트에 필요한 데이터를 담고있는 객체 정의
-		 - QualityVO, StdVO, AlcQualVO, VolatileQualVO의 네 가지
+		 - QualityVO, AvgVO, AlcQualVO, VolatileQualVO의 네 가지
 		 
 		 4) RestController
 		  - RequestMapping으로 필요한 url 네 가지 작성
