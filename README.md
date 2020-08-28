@@ -140,15 +140,19 @@ This repo is for Full Stack Development Project with Spring Framework.
 
 4. 차트 구현 (완료)
 		
-	1) Average (Table with Plotly.js)
+	* Average (Table with Plotly.js)
+	
 	![avg](https://user-images.githubusercontent.com/33477060/91560429-d1967c80-e974-11ea-814e-fd392a3c6dc1.PNG)
 	
-	2) Quality (Pie Chart with Plotly.js)
+	* Quality (Pie Chart with Plotly.js)
+	
 	![quality](https://user-images.githubusercontent.com/33477060/91560981-bbd58700-e975-11ea-9523-6399ab399f75.PNG)
 	
-	3) Alcohol-Quality (Scatter Plot with D3.js)
+	* Alcohol-Quality (Scatter Plot with D3.js)
+	
 	![alc_qual](https://user-images.githubusercontent.com/33477060/91561001-c3952b80-e975-11ea-92e3-e1a7557b5ca2.PNG)
 	
-	4) Volatile Acidity-Quality (Box Blot with Plotly.js)
+	* Volatile Acidity-Quality (Box Blot with Plotly.js)
+	
 	![vol_qual](https://user-images.githubusercontent.com/33477060/91560460-db1fe480-e974-11ea-8193-3287cd564a15.PNG)
 
