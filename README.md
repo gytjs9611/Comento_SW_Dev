@@ -140,25 +140,9 @@ This repo is for Full Stack Development Project with Spring Framework.
 
 4. 차트 구현 (완료)
 		
-		1) Average (Table with Plotly.js)
-		2) Quality (Pie Chart with Plotly.js)
-		3) Alcohol-Quality (Scatter Plot with D3.js)
-		4) Volatile Acidity-Quality (Box Blot with Plotly.js)
+	1) Average (Table with Plotly.js)
+	2) Quality (Pie Chart with Plotly.js)
+	3) Alcohol-Quality (Scatter Plot with D3.js)
+	4) Volatile Acidity-Quality (Box Blot with Plotly.js)
 		
 
-5. 인터페이스 가이드 작성 (작성중)
-
-		Wine Quality 인터페이스 가이드 Version 1.0 (pptx)
-		  
-		1) 요청
-		 - 사용자 요청 시 데이터 가져와 차트 그림
-		   
-		2) 응답
-		 - json 타입으로 데이터 제공
-		   
-		3) Chart Library 정보
-		 - https://d3js.org
-		 - https://plotly.com/javascript/
-		   
-		4) 차트 샘플
-		 - ppt내 이미지 첨부
