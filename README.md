@@ -107,8 +107,8 @@ This repo is for Full Stack Development Project with Spring Framework.
 
 1. 구현할 차트 선정 (완료)
 		
-		1) 'quality' 값의 분포를 보여주는 Bar Chart
-		2) 항목별 평균값을 보여주는 Table
+		1) 항목별 평균값을 보여주는 Table
+		2) 'quality' 값의 분포를 보여주는 Pie Chart
 		3) 'alcohol'-'quality' 간의 관계를 보여주는 Scatter Plot
 		4) 'volatile acidity'-'quality' 간의 관계를 보여주는 Box Plot
 		
@@ -140,7 +140,7 @@ This repo is for Full Stack Development Project with Spring Framework.
 
 4. 차트 구현 (진행중)
 		
-		1) Quality (Bar Chart) - O
-		2) Average (Table)
-		3) Alcohol-Quality (Scatter Plot) - O
-		4) Volatile Acidity-Quality (Box Blot)
+		1) Average (Table)
+		2) Quality (Pie Chart with Plotly) - O
+		3) Alcohol-Quality (Scatter Plot with D3.js) - O
+		4) Volatile Acidity-Quality (Box Blot with Plotly) - O
