@@ -3,7 +3,7 @@ This repo is for Full Stack Development Project with Spring Framework.
 <br/><br/>
 
 
-## 1주차 : 개발환경 구성
+## 1주차 : 개발환경 구성 [20.08.06 ~ 20.08.10]
 
 1. Github 계정 생성 (완료)
 
