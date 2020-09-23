@@ -35,7 +35,7 @@ This repo is for Full Stack Development Project with Spring Framework.
 		
 <br/>
 
-## 2주차 : 차트 선택, 테스트
+## 2주차 : 차트 선택, 테스트 [20.08.11 ~ 20.08.17]
 
 1. Bar Chart 예제 테스트 (완료)
 		
@@ -66,7 +66,7 @@ This repo is for Full Stack Development Project with Spring Framework.
 		   
 <br/>
 
-## 3주차 : RestController, DataBinding
+## 3주차 : RestController, DataBinding [20.08.19 ~ 20.08.24]
 
 1. Spring : RestController를 이용한 데이터 처리 (완료)
 		
@@ -102,7 +102,7 @@ This repo is for Full Stack Development Project with Spring Framework.
 		 
 <br/>
 
-## 4주차 : Visualize Wine Quality Data
+## 4주차 : Visualize Wine Quality Data [20.08.26 ~ 20.08.31]
 
 
 1. 구현할 차트 선정 (완료)
